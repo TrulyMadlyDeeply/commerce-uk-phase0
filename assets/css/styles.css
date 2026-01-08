@@ -305,6 +305,12 @@ a {
     font-size: 0.9rem;
 }
 
+.affiliate-disclosure {
+    margin-top: 0.4rem;
+    font-size: 0.85rem;
+    color: #666;
+}
+
 /* Responsive */
 @media (max-width: 900px) {
     .hero-inner {
